@@ -17,6 +17,6 @@ Installation
 
 1. # git clone git@github.com:TeeeJay/fun.git
 2. # cd fun/did_i_just_invent_that_word
-3. # ./setup.sh [Will checkout external dependencies]
+3. # ./setup.sh 
 4. # ./src/app.py myword
 
